@@ -23,9 +23,9 @@ This is a C# implementation of Glide's RecycleView intergration library.
 
 * Xamarin.Android.Glide, v 4.0.0
 
-## Walkthrough
+## Setup
 
-TODO
+[Official docs](https://bumptech.github.io/glide/int/recyclerview.html#setup)
 
 ---
 
